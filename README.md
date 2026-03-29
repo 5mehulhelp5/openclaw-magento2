@@ -19,7 +19,7 @@ Manage your Magento 2 or Adobe Commerce store directly from **OpenClaw**. This s
 To install this skill in your OpenClaw environment:
 
 ```bash
-openclaw install https://github.com/CaravanOfGlory/openclaw-magento2
+openclaw install https://github.com/caravanglory/openclaw-magento2
 ```
 
 ## ⚙️ Configuration

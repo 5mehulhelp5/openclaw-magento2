@@ -9,7 +9,7 @@ version: 0.1.0
 metadata:
   openclaw:
     emoji: "🛒"
-    homepage: https://github.com/CaravanOfGlory/openclaw-magento2
+    homepage: https://github.com/caravanglory/openclaw-magento2
     primaryEnv: MAGENTO_BASE_URL
     requires:
       env:

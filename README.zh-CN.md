@@ -19,7 +19,7 @@
 在您的 OpenClaw 环境中安装此技能：
 
 ```bash
-openclaw install https://github.com/CaravanOfGlory/openclaw-magento2
+openclaw install https://github.com/caravanglory/openclaw-magento2
 ```
 
 ## ⚙️ 配置
