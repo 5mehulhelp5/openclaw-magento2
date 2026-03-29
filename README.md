@@ -13,6 +13,7 @@ Manage your Magento 2 or Adobe Commerce store directly from **OpenClaw**. This s
 - **Promotions**: List cart rules, create coupon codes, and monitor usage stats.
 - **Reporting**: Sales summaries, top products, top customers, and inventory value reports.
 - **System**: Health checks and cache management (flush/list).
+- **CI/CD**: Integrated GitHub Actions for automated code quality and syntax checks.
 
 ## 📦 Installation
 
@@ -55,3 +56,7 @@ Once installed, you can talk to OpenClaw naturally:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 🛡️ Security (SLSA)
+
+This project follows SLSA (Supply-chain Levels for Software Artifacts) guidelines to ensure the integrity of the software.
